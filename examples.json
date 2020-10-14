@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Basic",
+    "actions": [
+      {
+        "name": "Copy JWT",
+        "premium": false,
+        "colorHex": "#fc6c85",
+        "url": "https://www.icloud.com/shortcuts/08719249523644e3a0604a89a31c6ed0"
+      },
+      {
+        "name": "Get Apps",
+        "premium": false,
+        "colorHex": "#fc6c85",
+        "url": "https://www.icloud.com/shortcuts/d4bd26a6fc12498c89ff66482290d01d"
+      },
+      {
+        "name": "Get Sales Report",
+        "premium": false,
+        "colorHex": "#fc6c85",
+        "url": "https://www.icloud.com/shortcuts/df4d99f14f0b426eb2da4db118b6e370"
+      }
+    ]
+  },
+  {
+    "name": "Premium",
+    "actions": [
+      {
+        "name": "List All Apps",
+        "premium": true,
+        "colorHex": "#fc6c85",
+        "url": "https://www.icloud.com/shortcuts/aed5fcc374f34710b814bf8825d914f2"
+      },
+      {
+        "name": "Submit App",
+        "premium": true,
+        "colorHex": "#fc6c85",
+        "url": "https://www.icloud.com/shortcuts/4455f2a49b12474d9588b5fd6df98939"
+      }
+    ]
+  }
+]
