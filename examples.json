@@ -3,19 +3,19 @@
     "name": "Basic",
     "actions": [
       {
-        "name": "Copy JWT",
+        "name": "Copy JWT (v1)",
         "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/08719249523644e3a0604a89a31c6ed0"
       },
       {
-        "name": "Get Apps",
+        "name": "Get Apps (v1)",
         "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/d4bd26a6fc12498c89ff66482290d01d"
       },
       {
-        "name": "Get Sales Report",
+        "name": "Get Sales Report (v1)",
         "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/df4d99f14f0b426eb2da4db118b6e370"
@@ -26,25 +26,25 @@
     "name": "Premium",
     "actions": [
       {
-        "name": "List All Apps",
+        "name": "List All Apps (v1)",
         "premium": true,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/aed5fcc374f34710b814bf8825d914f2"
       },
       {
-        "name": "Submit App For Review",
+        "name": "Submit App For Review (v1)",
         "premium": true,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/4455f2a49b12474d9588b5fd6df98939"
       },
       {
-        "name": "Send TestFlight Invite",
+        "name": "Send TestFlight Invite (v1)",
         "premium": true,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/ed80f7a5676e4050bb93a043009ed267"
       },
       {
-        "name": "Get Beta Tester Count",
+        "name": "Get Beta Tester Count (v1)",
         "premium": true,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/b338b5a0a8f544d3bfdca13706d88df9"
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "name": "Premium with Charty",
+    "name": "Premium with Charty (v1)",
     "actions": [
       {
         "name": "Charty Monthly Units",
@@ -61,7 +61,7 @@
         "url": "https://www.icloud.com/shortcuts/3ecf58ff39f544a69f1735903005332c"
       },
       {
-        "name": "Charty Daily Units",
+        "name": "Charty Daily Units (v1)",
         "premium": true,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/9115c7e3b0a341da98f54c3b47e969c0"
