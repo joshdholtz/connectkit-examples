@@ -49,22 +49,28 @@
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/b338b5a0a8f544d3bfdca13706d88df9"
       },
+      {
+        "name": "Get Monthly Units (v2)",
+        "premium": true,
+        "colorHex": "#fc6c85",
+        "url": "https://www.icloud.com/shortcuts/0db3e3675dee467ba0cbd82bacb348bd"
+      },
     ]
   },
   {
-    "name": "Premium with Charty (v1)",
+    "name": "Premium with Charty",
     "actions": [
       {
-        "name": "Charty Monthly Units",
+        "name": "Charty Monthly Units (v2)",
         "premium": true,
         "colorHex": "#fc6c85",
-        "url": "https://www.icloud.com/shortcuts/3ecf58ff39f544a69f1735903005332c"
+        "url": "https://www.icloud.com/shortcuts/6d10fc8ca8b942a1a28755cea5f991ef"
       },
       {
-        "name": "Charty Daily Units (v1)",
+        "name": "Charty Daily Units (v2)",
         "premium": true,
         "colorHex": "#fc6c85",
-        "url": "https://www.icloud.com/shortcuts/9115c7e3b0a341da98f54c3b47e969c0"
+        "url": "https://www.icloud.com/shortcuts/b6d9abce4fac46a08b1eac63bcce2d51"
       }
     ]
   }
